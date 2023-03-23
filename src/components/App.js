@@ -3,7 +3,7 @@ import Para from "./Para";
 function App(){
     return(
         <div>
-            <para/>
+            <Para/>
         </div>
     )
 }
